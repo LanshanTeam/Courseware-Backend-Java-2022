@@ -4,7 +4,7 @@ public class HelloWorld {
     //main方法是一切方法的入口
     public static void main(String[] args)
     {
-
+//
         System.out.println("(♥◠‿◠)ﾉﾞ  hello world!   ლ(´ڡ`ლ)ﾞ  \n" +
                 " .-------.       ____     __        \n" +
                 " |  _ _   \\      \\   \\   /  /    \n" +
