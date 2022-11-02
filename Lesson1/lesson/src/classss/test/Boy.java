@@ -10,9 +10,8 @@ public class Boy extends Person {
         boy.eat();
         Person person = new Person();
         person.eat();
-        //报错，没有访问权限
+        //报错，没有访问权限,say被protected修饰
         //person.say();
-
-       // int number1 = Person.number;
+         // int number1 = Person.number;
     }
 }

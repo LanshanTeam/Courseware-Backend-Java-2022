@@ -8,7 +8,7 @@
 
 # 1：JAVA的由来----要不要干一杯95年的咖啡
 
-<img src="https://img2.baidgitu.com/it/u=2792475283,728193344&fm=253&fmt=auto&app=138&f=JPG?w=836&h=500" alt="img" style="zoom: 67%;" />
+<img src="https://github.com/LanshanTeam/Courseware-Backend-Java-2022/blob/master/Lesson1/lesson/picture/v2-ce92b743b8a2c77df1a3470fe036eaed_720w.png" alt="img" style="zoom: 67%;" />
 
 ​                                                                             **这就是java的logo：一杯美味的咖啡**
 
@@ -205,7 +205,8 @@ public class Test
 ### main方法是一切程序的入口
 
 **在Java中，main方法是一个程序的入口，我们可以在java程序中定义很多方法，但是程序只能从main方法中进入。它被声明为公有静态方法，参数是一个字符串数组，返回值为void类型。一个java文件可以有无数个main方法，但是一个类中只能有一个main方法，当想要运行不同的main时，可以在左上角的白色小箭头处选择要运行的main方法，然后点击右边的绿色箭头即可运行。**
-![image-20221029183515127](C:\Users\罗彬的电脑\AppData\Roaming\Typora\typora-user-images\image-20221029183515127.png)
+<img src="https://github.com/feiWoSCun/LanshanFIirstLesson/blob/main/lesson/picture/image-20221029183515127.png" alt="img" style="zoom:50%;" />
+
 
 
 
