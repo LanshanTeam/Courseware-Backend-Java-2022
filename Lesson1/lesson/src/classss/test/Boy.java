@@ -2,8 +2,14 @@ package classss.test;
 
 import classss.Person;
 
-public class Boy extends Person {
 
+/**
+ * Boy
+ *
+ * @author 罗彬的电脑
+ * @date 2022/11/02
+ */
+public class Boy extends Person {
     public static void main(String[] args) {
         //Boy没有声明任何属性，但是可以实现父类方法
         Boy boy = new Boy();
