@@ -200,7 +200,7 @@ public class Test
 	
 ```
 
-
+[idea常用配置大全](https://gitee.com/zhengqingya/idea-config)
 
 ### main方法是一切程序的入口
 
