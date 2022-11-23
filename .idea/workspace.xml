@@ -1,5 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67597704-e985-43ec-a394-5b92e65b00da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/TheThird-main/TheThirdShow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Exception/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Exception/src/CommonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Exception/src/MeiQianException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Generic/src/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Generic/src/GenericException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Generic/src/GenericsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Generic/src/ToArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Generic/src/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/IO/IO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/IO/src/Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/IO/src/CopyPhoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Lesson4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Reflect/Reflect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Reflect/src/ReflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Reflect/src/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Thread/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Thread/src/RunThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Thread/src/TheadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/Thread/src/UnSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/TheThirdShow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/InnerClass/Fight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/InnerClass/TestInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/InnerClass/TestInner2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/InnerClass/TestInner2$1Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/InnerClass/TestInner2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/InnerClass/TestInnerClass$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/InnerClass/TestInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/countNum/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/countNum/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showAbstract/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showAbstract/Sheep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showAbstract/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showAbstract/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/Fight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/HeroFight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/ShowCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/showInterface/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/testFinal/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/out/production/TheThirdShow/testFinal/finalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/picture/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/picture/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/InnerClass/Fight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/InnerClass/TestInner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/InnerClass/TestInner2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/InnerClass/TestInnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/countNum/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/countNum/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/showAbstract/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/showInterface/ShowCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/showInterface/TestInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/testFinal/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessson3/TheThird-main/src/testFinal/finalTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -10,13 +99,97 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="2Hsf4kgbCqHYAhUtmERgFpZfd37" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.12597656&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.25463918&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.ReflectDemo">
+    <configuration name="MeiQianException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MeiQianException" />
+      <module name="Exception" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReflectDemo" />
+      <module name="Reflect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunThread" />
+      <module name="Thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheadPool" />
+      <module name="Thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnSafe$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnSafe$Test" />
+      <module name="Thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectDemo" />
+        <item itemvalue="Application.UnSafe$Test" />
+        <item itemvalue="Application.TheadPool" />
+        <item itemvalue="Application.RunThread" />
+        <item itemvalue="Application.MeiQianException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67597704-e985-43ec-a394-5b92e65b00da" name="Changes" comment="" />
+      <created>1669078527359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669078527359</updated>
+      <workItem from="1669078529969" duration="3717000" />
+      <workItem from="1669085984013" duration="13536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>

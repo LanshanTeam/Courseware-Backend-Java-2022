@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Courseware-Backend-Java-2022.iml" filepath="$PROJECT_DIR$/Courseware-Backend-Java-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson4/Exception/Exception.iml" filepath="$PROJECT_DIR$/Lesson4/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson4/Generic/Generic.iml" filepath="$PROJECT_DIR$/Lesson4/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson4/IO/IO.iml" filepath="$PROJECT_DIR$/Lesson4/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson4/Lesson4.iml" filepath="$PROJECT_DIR$/Lesson4/Lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson4/Reflect/Reflect.iml" filepath="$PROJECT_DIR$/Lesson4/Reflect/Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson4/Thread/Thread.iml" filepath="$PROJECT_DIR$/Lesson4/Thread/Thread.iml" />
     </modules>
   </component>
 </project>
