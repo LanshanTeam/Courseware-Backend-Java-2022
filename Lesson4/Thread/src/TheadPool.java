@@ -9,6 +9,8 @@ import java.util.concurrent.*;
 
 public class TheadPool {
     public static void main(String[] args) {
+
+
         ExecutorService pools = new ThreadPoolExecutor(
                 3,//核心线程个数 corePoolSize
                 5,//最大线程量 maximumPoolSize
@@ -31,6 +33,7 @@ public class TheadPool {
         });
 
         pools.shutdown();
+        pools.shutdownNow();
 
     }
 }

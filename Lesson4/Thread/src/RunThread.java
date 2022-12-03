@@ -10,14 +10,17 @@ import java.util.concurrent.Callable;
 public class RunThread {
 
     static class MyRunable implements Runnable {
+        
         @Override
         public void run() {
             System.out.println(Thread.currentThread().getName() + "线程跑起来了!!!");
         }
+        
     }
 
 
     static class MyCallable implements Callable<String> {
+        
         private int n;
 
         public MyCallable(int n) {

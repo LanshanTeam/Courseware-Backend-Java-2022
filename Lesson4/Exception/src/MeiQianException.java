@@ -15,6 +15,7 @@ public class MeiQianException extends Exception {
     }
 
     public static class AccountAdmin {
+        //私房钱
         private Double balance;
 
         public AccountAdmin(Double balance) {
@@ -39,7 +40,7 @@ public class MeiQianException extends Exception {
 
     public static void main(String[] args) {
         AccountAdmin accountAdmin = new AccountAdmin(100.0);
-        accountAdmin.deposit(200);//先取二伯块
+        accountAdmin.deposit(200);//存二伯块
         try {
             accountAdmin.withdraw(400);
         } catch (MeiQianException e) {

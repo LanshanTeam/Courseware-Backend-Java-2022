@@ -1,28 +1,13 @@
-package entity;
-
 /**
  * @program: Courseware-Backend-Java-2022
- * @description: 学生类
+ * @description:
  * @author: YxYL
- * @create: 2022-11-22 20:52
+ * @create: 2022-11-27 19:38
  **/
 
 public class Student {
-    
-    private String name;
-    private int id;
-
-
-
-
-
-    public Student(String name, int id) {
-        this.name = name;
-        this.id = id;
-    }
-
-    public Student() {
-    }
+    private String name ;
+    private int id ;
 
     public String getName() {
         return name;
@@ -39,13 +24,7 @@ public class Student {
     public void setId(int id) {
         this.id = id;
     }
-    
-    public void eat(String food){
-        System.out.println(this.name+"吃了"+food);
-    }
 
-    
-    
     @Override
     public String toString() {
         return "Student{" +

@@ -13,23 +13,21 @@ import java.util.List;
 public class Demo1 {
     public static void main(String[] args) {
         
-        List list = new ArrayList();
-        list.add("abc");
-        list.add(100);
-        for (int i = 0; i < list.size(); i++) {
-            System.out.println("执行到第 " + (i + 1) + " 次循环。");
-            String str = (String) list.get(i);
-            System.out.println(str);
-        }
-
-
-        Result<String> r1 = new Result<>();
-        r1.setData("111");
         
-        Result<Integer> r2 = new Result<>();
-        r2.setData(111);
-
-        Result<Boolean> r3 = new Result<>();
-        r3.setData(true);
+        List<Object> objects = new ArrayList<>();
+        objects.add(111);
+        objects.add("asasd");
+        
+//        Result<String> r1 = new Result<>();
+//        r1.setData("111");
+//        System.out.println("r1.getData() = " + r1.getData());
+//
+//        Result<Integer> r2 = new Result<>();
+//        r2.setData(111);
+//        System.out.println("r2.getData() = " + r2.getData());
+//
+//        Result<Boolean> r3 = new Result<>();
+//        r3.setData(true);
+//        System.out.println("r3.getData() = " + r3.getData());
     }
 }
