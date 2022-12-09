@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.springbootlesson.mapper.TestMapper">
+    <resultMap id="userResultMap" type="com.example.springbootlesson.bean.User">
+        <result column="home_addr" property="homeAddr"></result>
+    </resultMap>
+    <insert id="insert">
+        insert into tb_user
+        values (#{id}, #{username}, #{password}, #{gender}, #{homeAddr})
+    </insert>
+    <delete id="deleteByUserId">
+        delete
+        from tb_user
+        where id = #{id}
+    </delete>
+    <delete id="deleteByIds">
+        delete from tb_user where id in
+        <foreach collection="ids" item="id" open="(" close=")" separator=",">
+            #{id}
+        </foreach>
+    </delete>
+    <select id="selectAll" resultType="com.example.springbootlesson.bean.User">
+        select *
+        from tb_user
+    </select>
+    <select id="selectById" resultMap="userResultMap">
+        select *
+        from tb_user
+        where id = #{id}
+    </select>
+    <select id="selectByGenderAndHomeAddr" resultMap="userResultMap">
+        select *
+        from tb_user
+        where gender = #{gender}
+          and home_addr = #{homeAddr}
+    </select>
+    <select id="selectByUserNameAndGender" resultMap="userResultMap">
+        select *
+        from tb_user
+        where gender = #{gender}
+          and username = #{userName}
+    </select>
+
+</mapper>
