@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: 110.42.240.230
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
+    #publisher-confirms: 是否启用【发布确认】，默认false
+    publisher-confirm-type: correlated
